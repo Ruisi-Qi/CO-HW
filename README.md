@@ -6,7 +6,7 @@ The CO-HW is defined as the day when MHW and THW co-occur in the coastal ocean a
 The MHW is an anomalously warm water event that persists for five or more days, with SST exceeding the 90th percentile threshold calculated using an 11-day window (Hobday et al.,2016).
 # Terrestrial heatwaves (THWs):
 The THW is a period when the 2 m temperature maximum is above its 90th percentile for at least three consecutive days, calculated based on a 15-day window (Alexander & Perkins, 2013).
-# files
+# Files
 The data used to draw Figure 1-8 is stored separately in the corresponding .mat file.
 Codes are written in MATLAB.
 # Reference
