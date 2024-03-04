@@ -1,7 +1,7 @@
 clc
 close all
 clear all
-load F:\QIQI_G\1-SCSIO\研二\ing\Paper_CO-HW\Pictures_work\30c\figure-0101\CODE\Figure_1b_1c.mat
+load Figure_1b_1c.mat
 
 subplot(312)
 H_pa01 = patch([datenum(2022,6,30),datenum(2022,6,30),datenum(2022,7,8),datenum(2022,7,8)],...
