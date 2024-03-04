@@ -1,7 +1,5 @@
 # CO-HW
 MATLAB Code & Data
-## Introduction
-
 # Co-occurred heatwaves (CO-HWs)
 The CO-HW is defined as the day when MHW and THW co-occur in the coastal ocean and its surrounding continent. The single event refers to the isolated MHW/THW. The consecutive CO-HW days as a CO-HW event, but do not require a minimum number of consecutive days, that is, if a single day with MHW and THW co-occur, it can still be considered a CO-HW event.
 # Marine heatwaves (MHWs):
