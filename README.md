@@ -11,4 +11,5 @@ The data used to draw Figure 1-8 is stored separately in the corresponding .mat 
 Codes are written in MATLAB.
 # Reference
 1 Alexander, L. V., & Perkins, S. E. (2013). On the Measurement of Heat Waves. Journal of Climate, 26(13), 4500-4517. https://doi.org/10.1175/jcli-d-12-00383.1 
+
 2 Hobday, A. J., Alexander, L. V., Perkins, S. E., Smale, D. A., Straub, S. C., Oliver, E. C. J., Benthuysen, J. A., Burrows, M. T., Donat, M. G., Feng, M., Holbrook, N. J., Moore, P. J., Scannell, H. A., Sen Gupta, A., & Wernberg, T. (2016). A hierarchical approach to defining marine heatwaves. Progress in Oceanography, 141, 227-238. https://doi.org/10.1016/j.pocean.2015.12.014 
