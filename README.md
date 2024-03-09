@@ -7,7 +7,7 @@ The MHW is an anomalously warm water event that persists for five or more days, 
 # Terrestrial heatwaves (THWs):
 The THW is a period when the 2 m temperature maximum is above its 90th percentile for at least three consecutive days, calculated based on a 15-day window (Alexander & Perkins, 2013).
 # Files
-The data used to draw Figure 1-8 is stored separately in the corresponding .mat file.
+The data used to draw Figures 1, 2, 3, and 5 is stored separately in the corresponding .mat file.
 Codes are written in MATLAB.
 # Reference
 1 Alexander, L. V., & Perkins, S. E. (2013). On the Measurement of Heat Waves. Journal of Climate, 26(13), 4500-4517. https://doi.org/10.1175/jcli-d-12-00383.1 
